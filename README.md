@@ -3,7 +3,6 @@
 * I am a CSE student
 * **Exploring** and **Learning** the world of **TECH**
 * Codes in **Python** :computer: :computer:
-* I’m currently learning **C Programming language**
 * Follow me on [Instagram](https://www.instagram.com/ta.nvi6462/) and on [LinkedIn](https://www.linkedin.com/in/tanvi-gupta-5603b61ba/) :upside_down_face:
 
 
