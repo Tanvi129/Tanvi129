@@ -3,8 +3,9 @@
 * I am a CSE student
 * **Exploring** and **Learning** the world of **TECH**
 * Flutter App Developer
+* iOS App Developer
 * Codes in **Python** and **C++** :computer: :computer:
-* Interested in AIML
+* Interested in AIML and Blockchain
 * Follow me on [Instagram](https://www.instagram.com/ta.nvi6462/) and on [LinkedIn](https://www.linkedin.com/in/tanvi-gupta-5603b61ba/) :upside_down_face:
 
 
